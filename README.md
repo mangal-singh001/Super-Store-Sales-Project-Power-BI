@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard built using Superstore Sales data to uncover key business insights, analyze performance trends, and support data-driven decision-making.
 
-![Dashboard Preview](https://github.com/mangal-singh001/Super-Store-Sales-Project-Power-BI/blob/main/images/super-store-dashboard.png?raw=true)
+![Dashboard Preview](https://github.com/mangal-singh001/Super-Store-Sales-Project-Power-BI/blob/main/images/dashboard.png?raw=true)
+
 
 ---
 
